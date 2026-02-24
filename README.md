@@ -74,6 +74,7 @@
 - [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - <img src="./images/languages/typescript.svg" > An MCP server for the Slack API and interact with Slack workspaces.
 - [Axiom](https://github.com/axiomhq/mcp-server-axiom) - <img src="./images/languages/python.svg" > Query and analyze logs, traces, and event data using natural language using Axiom Processing Language (APL).
 - [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - <img src="./images/languages/typescript.svg" > Deploy and manage resources on the Cloudflare developer platform
+- [mycrab-mcp](https://github.com/isgudtek/mycrab-mcp) - <img src="./images/languages/python.svg" > Instant public HTTPS Cloudflare tunnels for AI agents. Free ephemeral URLs in 60s or permanent custom subdomains via Solana micropayment. Install: `uvx mycrab-mcp`.
 - [E2B (JS)](https://github.com/e2b-dev/mcp-server/tree/main/packages/js) - <img src="./images/languages/typescript.svg" > Execute code in secure cloud sandboxes by E2B
 - [E2B (Python)](https://github.com/e2b-dev/mcp-server/tree/main/packages/python) - <img src="./images/languages/python.svg" > Execute code in secure cloud sandboxes by E2B
 - [Neon](https://github.com/neondatabase/mcp-server-neon) - <img src="./images/languages/typescript.svg" > Interact with the Neon serverless Postgres platform
